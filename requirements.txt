@@ -1,0 +1,10 @@
+nltk==3.9.1
+spacy==3.8.7
+gensim==4.4.0
+scikit-learn==1.6.1
+numpy==2.0.2
+networkx==3.5
+rouge-score==0.1.2
+datasets==4.0.0
+pandas==2.2.2
+matplotlib==3.7.0
