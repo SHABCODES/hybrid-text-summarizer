@@ -5,7 +5,7 @@
 ### Project Overview
 Developed a hybrid summarization model combining three unsupervised algorithms for robust text summarization. This project demonstrates the effectiveness of combining multiple approaches for extractive text summarization.
 
-### 📊 Results
+### Results
 - **ROUGE-1**: 0.2295
 - **ROUGE-2**: 0.0795  
 - **ROUGE-L**: 0.1424
