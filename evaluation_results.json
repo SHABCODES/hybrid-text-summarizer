@@ -1,0 +1,9 @@
+{
+  "rouge1": 0.2295,
+  "rouge2": 0.0795,
+  "rougeL": 0.1424,
+  "dataset_info": {
+    "samples_processed": 50,
+    "average_sentences": 30.26
+  }
+}
