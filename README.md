@@ -3,14 +3,14 @@
 
 A research project implementing a hybrid summarization model combining K-Means Clustering, LDA Topic Modeling, and TextRank algorithms.
 
-## 🚀 Features
+## Features
 
 - **Hybrid Approach**: Combines three unsupervised algorithms for robust summarization
 - **Multi-language Support**: Framework ready for multiple languages
 - **Benchmark Evaluation**: Tested on CNN/DailyMail dataset
 - **Comprehensive Metrics**: ROUGE-1, ROUGE-2, ROUGE-L evaluation
 
-## 📊 Results
+## Results
 
 | Metric | Score |
 |--------|-------|
@@ -18,7 +18,7 @@ A research project implementing a hybrid summarization model combining K-Means C
 | ROUGE-2 | 0.0795 |
 | ROUGE-L | 0.1424 |
 
-## 🛠️ Installation
+## Installation
 
 ```bash
 git clone https://github.com/yourusername/hybrid-text-summarizer.git
